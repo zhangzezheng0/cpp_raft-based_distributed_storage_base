@@ -1,2 +1,6 @@
 # cpp_raft-based_distributed_storage_base
+This project is a distributed k-v database based on Raft consensus algorithm, with linear consistency and partition fault tolerance, using personal implementation of RPC communication framework MprRpc and jump table database SKipListPro to complete the RPC function and k-v storage function.
+
+
+
 本项目是基于Raft共识算法的分布式k-v数据库，具备线性一致性和分区容错性, 使用个人实现的RPC通信框架MprRpc和跳表数据库SKipListPro完成RPC功能和K-V存储功能。
